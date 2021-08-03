@@ -65,7 +65,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - IfThen2\dynamic-recompiler
+ - IfThen2/dynamic-recompiler
 
 #Stackoverflow flair is optional
 stackoverflow:
